@@ -10,12 +10,11 @@
         <Grid.Background>
             <ImageBrush ImageSource=".\ImagesFOLDER\calculation-390319_640.jpg" Stretch="UniformToFill"/>
         </Grid.Background>
-        <Canvas Grid.Row="0" Background="#C40D42" Name="CanvasSRFN" Margin="0,276,0,83">
+        <Canvas Grid.Row="0" Background="#FF0D81C4" Name="CanvasSRFN" Margin="0,276,0,83">
             <Image x:Name="ImageInsertNewOperatSRFN" Height="56" 
                    Canvas.Left="0" 
-                   Canvas.Top="0" 
-                   Stretch="UniformToFill"
-                   Source=".\ImagesFOLDER\Banner.png"
+                   Canvas.Top="0"
+                   Source=".\ImagesFOLDER\savings.jpg" Width="160" Stretch="Fill"
                    />
             <Label Canvas.Right="10" 
                    Canvas.Top="14" 
@@ -25,6 +24,8 @@
                    FontSize="24" 
                    FontWeight="Bold" 
                    />
+            <Image x:Name="ImageNewOpDataEnter" Height="42" Canvas.Left="201" Canvas.Top="8" Width="99"/>
+            
         </Canvas>
         <DockPanel Grid.Row="1" Margin="0" Name="DockPanelSRFN">
         </DockPanel>
