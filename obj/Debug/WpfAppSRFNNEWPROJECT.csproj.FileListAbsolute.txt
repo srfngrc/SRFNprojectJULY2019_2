@@ -1,0 +1,15 @@
+C:\VSprojects\WpfAppSRFNNEWPROJECT\bin\Debug\WpfAppSRFNNEWPROJECT.exe.config
+C:\VSprojects\WpfAppSRFNNEWPROJECT\bin\Debug\WpfAppSRFNNEWPROJECT.exe
+C:\VSprojects\WpfAppSRFNNEWPROJECT\bin\Debug\WpfAppSRFNNEWPROJECT.pdb
+C:\VSprojects\WpfAppSRFNNEWPROJECT\obj\Debug\WpfAppSRFNNEWPROJECT.csprojAssemblyReference.cache
+C:\VSprojects\WpfAppSRFNNEWPROJECT\obj\Debug\MainWindow.g.cs
+C:\VSprojects\WpfAppSRFNNEWPROJECT\obj\Debug\App.g.cs
+C:\VSprojects\WpfAppSRFNNEWPROJECT\obj\Debug\WpfAppSRFNNEWPROJECT_MarkupCompile.cache
+C:\VSprojects\WpfAppSRFNNEWPROJECT\obj\Debug\WpfAppSRFNNEWPROJECT_MarkupCompile.lref
+C:\VSprojects\WpfAppSRFNNEWPROJECT\obj\Debug\MainWindow.baml
+C:\VSprojects\WpfAppSRFNNEWPROJECT\obj\Debug\WpfAppSRFNNEWPROJECT.g.resources
+C:\VSprojects\WpfAppSRFNNEWPROJECT\obj\Debug\WpfAppSRFNNEWPROJECT.Properties.Resources.resources
+C:\VSprojects\WpfAppSRFNNEWPROJECT\obj\Debug\WpfAppSRFNNEWPROJECT.csproj.GenerateResource.cache
+C:\VSprojects\WpfAppSRFNNEWPROJECT\obj\Debug\WpfAppSRFNNEWPROJECT.csproj.CoreCompileInputs.cache
+C:\VSprojects\WpfAppSRFNNEWPROJECT\obj\Debug\WpfAppSRFNNEWPROJECT.exe
+C:\VSprojects\WpfAppSRFNNEWPROJECT\obj\Debug\WpfAppSRFNNEWPROJECT.pdb
